@@ -1,0 +1,77 @@
+<questions>
+	<question>
+		<type>text</type>
+			<text>What was the name of the "third" Death Star?</text>
+			<answer>Starkiller</answer>
+	</question>
+	<question>
+		<type>text</type>
+			<text>What's the main living race in Rodia?</text>
+			<answer>Rodians</answer>
+	</question>
+	<question>
+		<type>select</type>
+			<text>How many X-wings attacked the 1st Death Star?</text>
+			<option>6</option>
+			<answer>8</answer> 
+			<option>9</option>
+			<option>15</option>
+	</question>
+	<question>
+		<type>select</type>
+			<text>Where did Obiwan lose his arm?</text>
+			<option>In the Battle of Kashyyyk</option>
+			<option>At the asteroid field around Geonosis</option>
+			<answer>He did not lose his arm</answer>
+			<option>He gave it to Anakin, in order to teach him about gratefulness</option>
+	</question>
+	<question>
+		<type>multiple</type>
+			<text>Why Luke did not kill Darth Vader?</text>
+			<answer>Because he saw the goodness in him</answer>
+			<option>Because he was frightened</option>
+			<answer>Because he didn't want to turn to the dark side of the Force</answer>
+			<option>Because he was very far away</option>
+			
+	</question>
+	<question>
+		<type>multiple</type>
+			<text>Who from the following characters were Sith Lords?</text>
+			<option>Obi-wan Kenobi</option>
+			<answer>Darth Maul</answer>
+			<option>General Grievous</option>
+			<answer>Count Dooku</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+			<text>Which of these characters appear in all enumerated films?</text>
+			<answer>C3PO</answer>
+			<answer>R2-D2</answer>
+			<option>Luke Skywalker</option>
+			<option>Spock</option>
+	</question>
+	<question>
+		<type>checkbox</type>
+			<text>Which of these characters have lost a limb (or more than one)?</text>
+			<option>Chewbacca</option>
+			<option>Jango Fett</option>
+			<answer>Anakin Skywalker</answer>
+			<answer>Luke Skywalker</answer>
+	</question>
+	<question>
+		<type>radio</type>
+			<text>What was the color from the lightsabre of Lord Sidious?</text>
+			<option>Yellow</option>
+			<option>Green</option>
+			<answer>Red</answer>
+			<option>Blue</option>
+	</question>
+	<question>
+		<type>radio</type>
+			<text>When was the 1st Death Star destroyed?</text>
+			<answer>On 0 BY</answer>
+			<option>On the 19 ABY</option>
+			<option>On the 56 BBY</option>
+			<option>On the 1 ABY</option>
+	</question>
+</questions>

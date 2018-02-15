@@ -1,0 +1,87 @@
+#BODY{
+	text-align:center;
+	background-image: url("img/Galaxy-Background.jpg")
+}
+#pregunta1{
+	border-style:solid;
+	border-color:midnightblue;
+	width:50%;
+	position:relative;
+	left:25%;
+	background-color:grey;
+}
+#pregunta2{
+	border-style:solid;
+	border-color:midnightblue;
+	width:50%;
+	position:relative;
+	left:25%;
+	background-color:grey;
+}
+#pregunta3{
+	border-style:solid;
+	border-color:midnightblue;	
+	width:50%;
+	position:relative;
+	left:25%;
+	background-color:grey;
+}
+#pregunta4{
+	border-style:solid;
+	border-color:midnightblue;	
+	width:50%;
+	position:relative;
+	left:25%;
+	background-color:grey;
+}
+#pregunta5{
+	border-style:solid;
+	border-color:midnightblue;	
+	width:50%;
+	position:relative;
+	left:25%;
+	background-color:grey;
+}
+#pregunta6{
+	border-style:solid;
+	border-color:midnightblue;	
+	width:50%;
+	position:relative;
+	left:25%;
+	background-color:grey;
+}
+#pregunta7{
+	border-style:solid;
+	border-color:midnightblue;	
+	width:50%;
+	position:relative;
+	left:25%;
+	background-color:grey;
+}
+#pregunta8{
+	border-style:solid;
+	border-color:midnightblue;	
+	width:50%;
+	position:relative;
+	left:25%;
+	background-color:grey;
+}
+#pregunta9{
+	border-style:solid;
+	border-color:midnightblue;	
+	width:50%;
+	position:relative;
+	left:25%;
+	background-color:grey;
+}
+#pregunta10{
+	border-style:solid;
+	border-color:midnightblue;	
+	width:50%;
+	position:relative;
+	left:25%;
+	background-color:grey;
+}
+#SUButton{
+	color:white;
+}
