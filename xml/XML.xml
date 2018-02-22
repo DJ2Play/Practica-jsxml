@@ -1,77 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE questions SYSTEM "p.dtd">
+
 <questions>
 	<question>
 		<type>text</type>
-			<text>What was the name of the "third" Death Star?</text>
+			<title>What was the name of the "third" Death Star?</title>
 			<answer>Starkiller</answer>
 	</question>
 	<question>
 		<type>text</type>
-			<text>What's the main living race in Rodia?</text>
+			<title>What's the main living race in Rodia?</title>
 			<answer>Rodians</answer>
 	</question>
 	<question>
 		<type>select</type>
-			<text>How many X-wings attacked the 1st Death Star?</text>
+			<title>How many X-wings attacked the 1st Death Star?</title>
 			<option>6</option>
-			<answer>8</answer> 
+			<option>8</option> 
 			<option>9</option>
 			<option>15</option>
+			<answer>1</answer> <!--respuesta en posicion del array creada en el js-->
 	</question>
 	<question>
 		<type>select</type>
-			<text>Where did Obiwan lose his arm?</text>
+			<title>Where did Obiwan lose his arm?</title>
 			<option>In the Battle of Kashyyyk</option>
 			<option>At the asteroid field around Geonosis</option>
-			<answer>He did not lose his arm</answer>
+			<option>He did not lose his arm</option>
 			<option>He gave it to Anakin, in order to teach him about gratefulness</option>
+			<answer>2</answer>
 	</question>
 	<question>
 		<type>multiple</type>
-			<text>Why Luke did not kill Darth Vader?</text>
-			<answer>Because he saw the goodness in him</answer>
+			<title>Why Luke did not kill Darth Vader?</title>
+			<option>Because he saw the goodness in him</option>
 			<option>Because he was frightened</option>
-			<answer>Because he didn't want to turn to the dark side of the Force</answer>
+			<option>Because he didn't want to turn to the dark side of the Force</option>
 			<option>Because he was very far away</option>
+			<answer>2</answer>
 			
 	</question>
 	<question>
 		<type>multiple</type>
-			<text>Who from the following characters were Sith Lords?</text>
+			<title>Who from the following characters were Sith Lords?</title>
 			<option>Obi-wan Kenobi</option>
-			<answer>Darth Maul</answer>
+			<option>Darth Maul</option>
 			<option>General Grievous</option>
-			<answer>Count Dooku</answer>
+			<option>Count Dooku</option>
+			<answer>1</answer>
+			<answer>3</answer>
 	</question>
 	<question>
 		<type>checkbox</type>
-			<text>Which of these characters appear in all enumerated films?</text>
-			<answer>C3PO</answer>
-			<answer>R2-D2</answer>
+			<title>Which of these characters appear in all enumerated films?</title>
+			<option>C3PO</option>
+			<option>R2-D2</option>
 			<option>Luke Skywalker</option>
 			<option>Spock</option>
+			<answer>0</answer>
+			<answer>1</answer>
 	</question>
 	<question>
 		<type>checkbox</type>
-			<text>Which of these characters have lost a limb (or more than one)?</text>
+			<title>Which of these characters have lost a limb (or more than one)?</title>
 			<option>Chewbacca</option>
 			<option>Jango Fett</option>
-			<answer>Anakin Skywalker</answer>
-			<answer>Luke Skywalker</answer>
+			<option>Anakin Skywalker</option>
+			<option>Luke Skywalker</option>
+			<answer>2</answer>
+			<answer>3</answer>
 	</question>
 	<question>
 		<type>radio</type>
-			<text>What was the color from the lightsabre of Lord Sidious?</text>
+			<title>What was the color from the lightsabre of Lord Sidious?</title>
 			<option>Yellow</option>
 			<option>Green</option>
-			<answer>Red</answer>
+			<option>Red</option>
 			<option>Blue</option>
+			<answer>2</answer>
 	</question>
 	<question>
 		<type>radio</type>
-			<text>When was the 1st Death Star destroyed?</text>
-			<answer>On 0 BY</answer>
+			<title>When was the 1st Death Star destroyed?</title>
+			<option>On 0 BY</option>
 			<option>On the 19 ABY</option>
 			<option>On the 56 BBY</option>
 			<option>On the 1 ABY</option>
+			<answer>0</answer>
 	</question>
 </questions>
