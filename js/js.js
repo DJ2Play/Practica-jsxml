@@ -33,7 +33,7 @@ window.onload = function(){
 	xhttp.send();
 
 	document.getElementById("submitButton").onclick = function(){ //clicking on Submit button will revise & correct the exam
-		if (correct == false){
+		if (correct == false && revise()){
 			correctFunction();
 		}
 	}
