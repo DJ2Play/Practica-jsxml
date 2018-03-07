@@ -25,3 +25,4 @@
  ## Fallos
     - NO dispone de corrección debido a un fallo en la correción del "SELECT" y la imposibilidad de terminar el código
     - En el CSS, el boton de "EMPEZAR EXAMEN" no esta correctamente estilizado
+    - NO dispone de los metadatos con el fin de Publicar o Compartir la página
