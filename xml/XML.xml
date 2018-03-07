@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!DOCTYPE questions SYSTEM "p.dtd">
-
-<questions>
+<!DOCTYPE questions>
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd.xsd">
 	<question>
 		<type>text</type>
 			<title>What was the name of the "third" Death Star?</title>
@@ -38,8 +37,8 @@
 			<option>Because he was frightened</option>
 			<option>Because he didn't want to turn to the dark side of the Force</option>
 			<option>Because he was very far away</option>
+			<answer>0</answer>
 			<answer>2</answer>
-			
 	</question>
 	<question>
 		<type>multiple</type>
@@ -68,12 +67,13 @@
 			<option>Jango Fett</option>
 			<option>Anakin Skywalker</option>
 			<option>Luke Skywalker</option>
+			<answer>1</answer>
 			<answer>2</answer>
 			<answer>3</answer>
 	</question>
 	<question>
 		<type>radio</type>
-			<title>What was the color from the lightsabre of Lord Sidious?</title>
+			<title>What was the color from the lightsaber of Lord Sidious?</title>
 			<option>Yellow</option>
 			<option>Green</option>
 			<option>Red</option>

@@ -1,82 +1,28 @@
-#BODY{
+#Body1{
 	text-align:center;
-	background-image: url("img/Galaxy-Background.jpg");
+	background-image: url("../img/Galaxy-Background.jpg");
+}
+#Body2{
+	text-align:center;
+	background-image: url("../img/Galaxy-Background.jpg");
+	position: relative;
+}
+#title{
+	color:white;
+}
+#header{
+	color:white;
+}
+.question{
+	background-color:grey;
+	margin:10px;
+	border-style: double;
+	border-width: 10px;
+	position:relative;
 }
 #pregunta1{
 	border-style:solid;
 	border-color:midnightblue;
-	width:50%;
-	position:relative;
-	left:25%;
-	background-color:grey;
-}
-#pregunta2{
-	border-style:solid;
-	border-color:midnightblue;
-	width:50%;
-	position:relative;
-	left:25%;
-	background-color:grey;
-}
-#pregunta3{
-	border-style:solid;
-	border-color:midnightblue;	
-	width:50%;
-	position:relative;
-	left:25%;
-	background-color:grey;
-}
-#pregunta4{
-	border-style:solid;
-	border-color:midnightblue;	
-	width:50%;
-	position:relative;
-	left:25%;
-	background-color:grey;
-}
-#pregunta5{
-	border-style:solid;
-	border-color:midnightblue;	
-	width:50%;
-	position:relative;
-	left:25%;
-	background-color:grey;
-}
-#pregunta6{
-	border-style:solid;
-	border-color:midnightblue;	
-	width:50%;
-	position:relative;
-	left:25%;
-	background-color:grey;
-}
-#pregunta7{
-	border-style:solid;
-	border-color:midnightblue;	
-	width:50%;
-	position:relative;
-	left:25%;
-	background-color:grey;
-}
-#pregunta8{
-	border-style:solid;
-	border-color:midnightblue;	
-	width:50%;
-	position:relative;
-	left:25%;
-	background-color:grey;
-}
-#pregunta9{
-	border-style:solid;
-	border-color:midnightblue;	
-	width:50%;
-	position:relative;
-	left:25%;
-	background-color:grey;
-}
-#pregunta10{
-	border-style:solid;
-	border-color:midnightblue;	
 	width:50%;
 	position:relative;
 	left:25%;
