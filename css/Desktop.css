@@ -7,6 +7,9 @@
 	background-image: url("../img/Galaxy-Background.jpg");
 	position: relative;
 }
+#logo{
+	width:35%;
+}
 #title1{
 	position:relative;
 	background-color:grey;
@@ -18,7 +21,6 @@
 	margin-right: 130px;
 }
 #title2{
-	color:white;
 	position:relative;
 	background-color:grey;
 	border-style: double;
@@ -61,7 +63,7 @@
 	position:relative;
 	background-color:grey;
 	font-size:35px;
-	
+	margin:30px;
 }
 #goto{
 	font-size: 25px;
