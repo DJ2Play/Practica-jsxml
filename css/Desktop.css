@@ -7,11 +7,33 @@
 	background-image: url("../img/Galaxy-Background.jpg");
 	position: relative;
 }
+#title1{
+	position:relative;
+	background-color:grey;
+	border-style: double;
+	border-width: 10px;
+	font-size: 50px;
+	margin: 0px;
+	margin-left: 130px;
+	margin-right: 130px;
+}
+#title2{
+	color:white;
+	position:relative;
+	background-color:grey;
+	border-style: double;
+	border-width: 10px;
+}
+#expl{
+	color:white;
+}
 #title{
 	color:white;
 }
-#header{
-	color:white;
+#welcome{
+	font-size: 30px;
+	border-style: solid;
+	background-color: grey;
 }
 .question{
 	background-color:grey;
@@ -20,14 +42,30 @@
 	border-width: 10px;
 	position:relative;
 }
-#pregunta1{
+#SUButton{
+	background-color: grey;
+	border-style: double;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+#submitButton{
+	color:red;
+	font-size: 25px;
+	width: 250px;
+	height: 50px;
+}
+#welcomesign{
+	border-width:10px;
 	border-style:solid;
 	border-color:midnightblue;
-	width:50%;
 	position:relative;
-	left:25%;
 	background-color:grey;
+	font-size:35px;
+	
 }
-#SUButton{
-	color:white;
+#goto{
+	font-size: 25px;
+	width: 250px;
+	height: 50px;
+	margin:20px;
 }

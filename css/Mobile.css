@@ -11,8 +11,22 @@
 #title{
 	color:white;
 }
-#header{
+#title1{
+	position:relative;
+	background-color:grey;
+	border-style: double;
+	border-width: 10px;
+	font-size: 25px;
+	margin: 0px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+#title2{
 	color:white;
+	position:relative;
+	background-color:grey;
+	border-style: double;
+	border-width: 10px;
 }
 .question{
 	background-color:grey;
@@ -20,14 +34,15 @@
 	border-style: double;
 	border-width: 10px;
 }
-#pregunta1{
-	border-style:solid;
-	border-color:midnightblue;
-	width:50%;
-	position:relative;
-	left:25%;
-	background-color:grey;
-}
 #SUButton{
-	color:white;
+	background-color: grey;
+	border-style: double;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+#submitButton{
+	color:red;
+	font-size: 25px;
+	width: 125px;
+	height: 50px;
 }
